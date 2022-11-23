@@ -1,4 +1,4 @@
-# My name is Mattia Elezi
+## Mattia Elezi
 A hardworking, reliable, and highly motivated Economics with Econometrics graduate with a passion for Data Analysis and professional development. I am an ambitious individual with an analytical mindset and a keen interest in technology, seeking a role as Junior Analyst. The opportunity would allow me to display the personal and interpersonal skills I acquired throughout my studies and work experiences, overcoming difficult challenges with resilience and integrity.
 
 
