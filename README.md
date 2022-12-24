@@ -81,7 +81,7 @@ economic analysis of the results.
 ### [Interactive Dashboard Project](https://github.com/Melez99/Excel_Dashboard) 
 * Excel dynamic dashboard on the performace of Superstore Inc.
 * The project analyses sales and creates interactive data visualisation based on a dataset found on Kaggle.
-* The structure of the dashboard was made with PowerPoint.
+* The structure of the dashboard was created with PowerPoint.
 
 
 
