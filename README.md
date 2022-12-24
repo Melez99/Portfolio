@@ -78,9 +78,10 @@ dependent variable. Point estimates are reported, statistical significance of co
 assessed and hypotheses tests carried out. Statistical analysis is accompanied by an
 economic analysis of the results.
 
-
-
-
+### [Interactive Dashboard Project](https://github.com/Melez99/Excel_Dashboard) 
+* Excel dynamic dashboard on the performace of Superstore Inc.
+* The project analyses sales and creates interactive data visualisation based on a dataset found on Kaggle.
+* The structure of the dashboard was made with PowerPoint.
 
 
 
