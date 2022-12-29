@@ -73,7 +73,7 @@ economic analysis of the results.
 * The structure of the dashboard was created with PowerPoint.
 
 
-### [Advanced Econometrics Project 2](link)
+### [Advanced Econometrics Project 2](https://github.com/Melez99/AE_project_2)
 * The project contains a Panel Data Analysis on the causes of Maternal Mortality across countries.
    + Random Effects (RE) model. 
    + Fixed Effects (FE) model using the ‘within’ estimator
