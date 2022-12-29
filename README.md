@@ -2,16 +2,15 @@
 A hardworking, reliable, and highly motivated Economics with Econometrics graduate with a passion for Data Analysis and professional development. I am an ambitious individual with an analytical mindset and a keen interest in technology, seeking a role as Junior Analyst. The opportunity would allow me to display the personal and interpersonal skills I acquired throughout my studies and work experiences, overcoming difficult challenges with resilience and integrity.
 
 
-### [Advanced Econometrics Project](https://github.com/Melez99/AE-Project)
-* RMarkdown project developed for the Advanced Econometrics module of my BSC in Economics with econometrics.
+### [Advanced Econometrics Project 1](https://github.com/Melez99/AE-Project)
+* R Markdown project developed for the Advanced Econometrics module of my BSC in Economics with econometrics.
 * The project relies on various statistical methods to provide empirical content on the economic relationship
 between the Capacity Utilisation Rate and the Inflation Rate of the USA. Indeed, Inflation is highly correlated
 with the nominal interest rate as when inflation rises, the central bank raises the nominal interest rate to
 counter it, thus reducing the growth rate of GDP to maintain inflation at acceptable levels for economic
 functionality. However, the Federal Reserve ends up reducing both demand and supply in the process and,
 thus, capacity utilisation decreases.
-* The project contains a Time Series Analysis (Impact of TCU on Inflation Rate) and a Panel Data Analysis (Causes of Maternal Mortality across countries).
-* Time Series Analysis: 
+* The project contains a Time Series Analysis on the impact of TCU on Inflation Rate.
    + Database fetched directly from the FRED website.
    + Models run both in levels and first differences. 
    + Unit Root tests: ADF, PP and KPSS. 
@@ -20,17 +19,7 @@ thus, capacity utilisation decreases.
    + Diagnostic tests (Shapiro-Wilk, Breusch-Godfrey, Jarque-Bera) and Impulse Response Functions.
    + VAR model and Granger-Causality test. 
    + Cholesky-Decomposition and IRFs.
-   + ARIMA model.
-* Panel Data Analysis: 
-   + Random Effects (RE) model. 
-   + Fixed Effects (FE) model using the ‘within’ estimator
-   + Pooled OLS and test for poolability
-   + Hausman test
-   + Fixed Effects model with individual effects only time effects only and with two-way effects
-   + White noise diagnostic tests on the residuals of each model (auto-correlation and heteroskedasticity). 
-   + Instrumental Variable (IV). 
-   + 2SLS model. 
-   + GMM model.
+   + ARIMA and SARIMA models.
 
 ### [Econometrics Project](https://github.com/Melez99/Econometrics_Project)
 * R project developed for the Econometrics module of my BSC in Economics with econometrics.
@@ -84,5 +73,14 @@ economic analysis of the results.
 * The structure of the dashboard was created with PowerPoint.
 
 
-
-
+### [Advanced Econometrics Project 2](link)
+* The project contains a Panel Data Analysis on the causes of Maternal Mortality across countries.
+   + Random Effects (RE) model. 
+   + Fixed Effects (FE) model using the ‘within’ estimator
+   + Pooled OLS and test for poolability
+   + Hausman test
+   + Fixed Effects model with individual effects only time effects only and with two-way effects
+   + White noise diagnostic tests on the residuals of each model (auto-correlation and heteroskedasticity). 
+   + Instrumental Variable (IV). 
+   + 2SLS model. 
+   + GMM model.
