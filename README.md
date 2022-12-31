@@ -1,7 +1,3 @@
-## Mattia Elezi
-A hardworking, reliable, and highly motivated Economics with Econometrics graduate with a passion for Data Analysis and professional development. I am an ambitious individual with an analytical mindset and a keen interest in technology, seeking a role as Junior Analyst. The opportunity would allow me to display the personal and interpersonal skills I acquired throughout my studies and work experiences, overcoming difficult challenges with resilience and integrity.
-
-
 ### [Advanced Econometrics Project 1](https://github.com/Melez99/AE-Project)
 * R Markdown project developed for the Advanced Econometrics module of my BSC in Economics with econometrics.
 * The project relies on various statistical methods to provide empirical content on the economic relationship
