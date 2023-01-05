@@ -16,6 +16,18 @@ thus, capacity utilisation decreases.
    + VAR model and Granger-Causality test. 
    + Cholesky-Decomposition and IRFs.
    + ARIMA and SARIMA models.
+   
+### [Advanced Econometrics Project 2](https://github.com/Melez99/AE_project_2)
+* The project contains a Panel Data Analysis on the causes of Maternal Mortality across countries.
+   + Random Effects (RE) model. 
+   + Fixed Effects (FE) model using the ‘within’ estimator
+   + Pooled OLS and test for poolability
+   + Hausman test
+   + Fixed Effects model with individual effects only time effects only and with two-way effects
+   + White noise diagnostic tests on the residuals of each model (auto-correlation and heteroskedasticity). 
+   + Instrumental Variable (IV). 
+   + 2SLS model. 
+   + GMM model.
 
 ### [Econometrics Project](https://github.com/Melez99/Econometrics_Project)
 * R project developed for the Econometrics module of my BSC in Economics with econometrics.
@@ -67,16 +79,3 @@ economic analysis of the results.
 * Excel dynamic dashboard on the performace of Superstore Inc.
 * The project analyses sales and creates interactive data visualisation based on a dataset found on Kaggle.
 * The structure of the dashboard was created with PowerPoint.
-
-
-### Advanced Econometrics Project 2
-* The project contains a Panel Data Analysis on the causes of Maternal Mortality across countries.
-   + Random Effects (RE) model. 
-   + Fixed Effects (FE) model using the ‘within’ estimator
-   + Pooled OLS and test for poolability
-   + Hausman test
-   + Fixed Effects model with individual effects only time effects only and with two-way effects
-   + White noise diagnostic tests on the residuals of each model (auto-correlation and heteroskedasticity). 
-   + Instrumental Variable (IV). 
-   + 2SLS model. 
-   + GMM model.
