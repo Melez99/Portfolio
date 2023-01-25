@@ -75,7 +75,12 @@ dependent variable. Point estimates are reported, statistical significance of co
 assessed and hypotheses tests carried out. Statistical analysis is accompanied by an
 economic analysis of the results.
 
-### [Interactive Dashboard Project](https://github.com/Melez99/Excel_Dashboard) 
+### [Excel Interactive Dashboard Project](https://github.com/Melez99/Excel_Dashboard) 
 * Excel dynamic dashboard on the performace of Superstore Inc.
 * The project analyses sales and creates interactive data visualisation based on a dataset found on Kaggle.
 * The structure of the dashboard was created with PowerPoint.
+
+### [Tableau Interactive Dashboard Project](https://github.com/Melez99/Tableau_Dashboard)
+* Tableau dashboard on the relationship between gender and salary, developed for the MySQL for Data Analytics and Business Intelligence Udemy course.
+* The project is an intuitive data visualisation based on the modified employees database found on GitHub.
+* The dashboard was constructed integrating SQL and Tableau, extracting output tables from SQL and loading them in Tableau.
