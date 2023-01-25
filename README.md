@@ -83,4 +83,4 @@ economic analysis of the results.
 ### [Tableau Interactive Dashboard Project](https://github.com/Melez99/Tableau_Dashboard)
 * Tableau dashboard on the relationship between gender and salary, developed for the MySQL for Data Analytics and Business Intelligence Udemy course.
 * The project is an intuitive data visualisation based on the modified employees database found on GitHub.
-* The dashboard was constructed integrating SQL and Tableau, extracting output tables from SQL and loading them in Tableau.
+* The dashboard was constructed combining SQL and Tableau, extracting output tables from SQL and loading them in Tableau.
